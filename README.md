@@ -9,3 +9,6 @@
 第二部分就是针对五大领域进行展开。主要关于控制研究、媒介分析、受众分析和效果分析
 
 第三部分就是对于传播学的研究史
+
+
+This work is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
