@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.6.7)  13 NOV 2024 20:51
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.6.7)  17 NOV 2024 14:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -780,7 +780,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ]
 LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <12> not available
 (Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 
-55.
+56.
  [2])
 \tf@toc=\write4
 \openout4 = `Communication.toc'.
@@ -817,37 +817,37 @@ uail &S.Windahl,Communication Models,pp.105-
  []
 
 [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48]
-[49]
-Overfull \hbox (15.00764pt too wide) in paragraph at lines 855--856
+[49] [50] [51]
+Overfull \hbox (15.00764pt too wide) in paragraph at lines 880--881
 \TU/SimSun(0)/m/n/12 种 方 法 的 有 效 性 进 行 过 实 验 比 较。 （注：| \TU/lmr/m/n/12 See C.I.H
 ovland,A.A.Lumsdaine &F.D.Sheffield,Experiments
  []
 
-[50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61]
+[52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63]
 Missing character: There is no ∶ (U+2236) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74]
-Overfull \hbox (4.9032pt too wide) in paragraph at lines 1170--1171
+[64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76]
+Overfull \hbox (4.9032pt too wide) in paragraph at lines 1195--1196
 \TU/SimSun(0)/m/n/12 际，|  影 响 他 们 可 能 的 行 为 选 择 之 概 率 的 物 质  |—|  能 量 的 型 式” （注
 ：| \TU/lmr/m/n/12 Everett M.Rogers,Communication
  []
 
-[75]
+[77]
 Missing character: There is no  (U+E010) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[76]
-Overfull \hbox (41.96pt too wide) in paragraph at lines 1184--1185
+[78]
+Overfull \hbox (41.96pt too wide) in paragraph at lines 1209--1210
 \TU/lmr/m/n/12 Wiener,I Am a Mathematician:The Later Life of a Prodigy,Garden C
 ity,New York:Doubleday,1956,p.263.\TU/SimSun(0)/m/n/12 ）|
  []
 
-[77] [78] [79] [80] [81] [82] [83] [84] [85] [86] (./Communication.aux)
+[79] [80] [81] [82] [83] [84] [85] [86] [87] [88] (./Communication.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
  ***********
 Package rerunfilecheck Info: File `Communication.out' has not changed.
-(rerunfilecheck)             Checksum: BE09BB59AAAB2D1F83643F0EA427474A;5943.
+(rerunfilecheck)             Checksum: 8AAF6AD40C61A334B20C3FFEBF63266F;6041.
  ) 
 Here is how much of TeX's memory you used:
  19964 strings out of 474773
@@ -858,4 +858,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  93i,13n,97p,775b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Communication.pdf (86 pages).
+Output written on Communication.pdf (88 pages).
